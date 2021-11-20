@@ -11,5 +11,9 @@ Nomes dos participantes:
 -   Marta Dias
 -   Margarida Melo
 -   Miriam Santos
+<<<<<<< Updated upstream
 -   Margarida Melo
 
+=======
+-   Margarida Rodrigues
+>>>>>>> Stashed changes
