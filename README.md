@@ -2,15 +2,17 @@
 
 Nomes dos participantes:
 
--   Isabel Costa
--   Pedro Fonseca
--   Joana Santos
--   vanessa maria
--   Margarida Pereira
--   Simão Jones
-- 	Agata Mascarenhas
--   Joaquim Gomes
--   Marta Dias
--   Margarida Melo
--   Miriam Santos
--   Margarida Melo
+
+- Isabel Costa
+- Pedro Fonseca
+- Claudia Lourenço
+- Joana C Santos
+- Catarina Guerra
+- Vanessa Maria
+- Margarida Pereira
+- Simão Jones
+- Agata Mascarenhas
+- Joaquim Gomes
+- Marta Dias
+- Margarida Melo
+- Miriam Santos
